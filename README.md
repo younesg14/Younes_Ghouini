@@ -73,7 +73,7 @@ My path has been shaped by international experiences. A year abroad at the **Uni
 
 <!-- dbt -->
 <a href="https://credentials.getdbt.com/a9264b2b-82aa-4277-ba42-765735e20d45">
-  <img src="https://credentials.getdbt.com/a9264b2b-82aa-4277-ba42-765735e20d45/badge" alt="dbt fundamentals" width="19%" />
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/165511647" alt="dbt fundamentals" width="19%" />
 </a>
 
 <!-- Snowflake -->
@@ -100,7 +100,7 @@ My path has been shaped by international experiences. A year abroad at the **Uni
 <td width="50%">
 
 #### 🌍 UK Street Crimes Dashboard
-Interactive Tableau dashboard powered by an **Alteryx App** — users select a date range, crime category, and area, and the viz updates dynamically. Data sourced from data.police.uk and pushed to Tableau Server.
+Interactive Tableau dashboard powered by an **Alteryx App**. Users select a date range, crime category, and area, and the viz updates dynamically. Data sourced from data.police.uk and pushed to Tableau Server.
 
 `Tableau` `Alteryx` `API` `Data Prep`
 
