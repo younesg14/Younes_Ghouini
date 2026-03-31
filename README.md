@@ -17,7 +17,7 @@
 
 I'm a data consulatant at **The Information Lab**. I build dashboards, data models, and internal tooling that turns messy data into clear, actionable insight.
 
-Before data, I spent **10+ years in the gaming industry** — product management, monetisation, and user experience. I co-launched a mobile gaming studio that reached **millions of users worldwide**, and it was through analysing player behaviour and game performance data that I found my real obsession: **data-driven storytelling**.
+Before data, I spent **10+ years in the gaming industry**, product management, monetisation, and user experience. I co-launched a mobile gaming studio that reached **millions of users worldwide**, and it was through analysing player behaviour and game performance data that I found my real obsession: **data-driven storytelling**.
 
 My path has been shaped by international experiences. A year abroad at the **University of Wisconsin** 🇺🇸, six months at a startup in **Valencia, Spain** 🇪🇸.
 
