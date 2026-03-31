@@ -76,17 +76,6 @@ My path has been shaped by international experiences. A year abroad at the **Uni
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/165511647" alt="dbt fundamentals" width="19%" />
 </a>
 
-<!-- Snowflake -->
-<a href="https://achieve.snowflake.com/12b5975a-1088-48b8-adf9-4dc7adaac045">
-  <img src="https://achieve.snowflake.com/12b5975a-1088-48b8-adf9-4dc7adaac045/badge" width="19%" />
-</a>
-
-<!-- Accredible -->
-<a href="https://achieve.snowflake.com/12b5975a-1088-48b8-adf9-4dc7adaac045#acc.jzsG2ew7">
-  <img src="https://api.accredible.com/v1/frontend/credential_embed_image/164515147" alt="Accredible Credential" width="19%" />
-</a>>
-
-
 </div>
 
 </div>
