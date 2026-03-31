@@ -82,7 +82,7 @@ My path has been shaped by international experiences. A year abroad at the **Uni
 </a>
 
 <!-- Accredible -->
-<a href="https://api.accredible.com/v1/frontend/credential_embed_image/164515147">
+<a href="https://achieve.snowflake.com/12b5975a-1088-48b8-adf9-4dc7adaac045#acc.jzsG2ew7">
   <img src="https://api.accredible.com/v1/frontend/credential_embed_image/164515147" alt="Accredible Credential" width="19%" />
 </a>>
 
