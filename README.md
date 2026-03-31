@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-g-46a74b59/)
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/younes.ghouini/vizzes)
-[![The Data School](https://img.shields.io/badge/The_Data_School-1a1a2e?style=for-the-badge)](https://www.thedataschool.co.uk/blog/younes-ghouini/)
+[![The Data School](https://img.shields.io/badge/The_Information_Lab-1a1a2e?style=for-the-badge)](https://www.thedataschool.co.uk/blog/younes-ghouini/)
 [![Blog](https://img.shields.io/badge/Blog-Read_My_Posts-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.thedataschool.co.uk/blog/younes-ghouini/)
 
 </div>
