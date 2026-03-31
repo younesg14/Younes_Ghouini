@@ -66,6 +66,8 @@ My path has been shaped by international experiences. A year abroad at the **Uni
   <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEbJ&oid=00DF0000000gZsu&lastMod=1746778793000" alt="Salesforce Certified Tableau Data Analyst" width="19%" />
 </a>
 
+https://private-user-images.githubusercontent.com/222618294/530486382-ba531a69-0983-472a-afe5-4ec956cf5de6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ5NTQ2NDgsIm5iZiI6MTc3NDk1NDM0OCwicGF0aCI6Ii8yMjI2MTgyOTQvNTMwNDg2MzgyLWJhNTMxYTY5LTA5ODMtNDcyYS1hZmU1LTRlYzk1NmNmNWRlNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMzMVQxMDUyMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZDVlODJhNDRkMjdiMTZmZjEzNDRhNGUxOGQ2NjgwMjRiMWM4MDJmYzg5NzNiMDBhZmEyZDNhMTQ0YWY0NzNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8xcxFRi7SLUqkANUR0mYwUBvIHCJnay01_meYUkEAjU
+
 <!-- Google Skillshop -->
 <a href="https://skillshop.credential.net/cf10c18d-e038-4424-95f4-45f595cef009">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/cf10c18d-e038-4424-95f4-45f595cef009" alt="Google Skillshop Certification" width="19%" />
