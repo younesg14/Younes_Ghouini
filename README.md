@@ -63,7 +63,7 @@ My path has been shaped by international experiences. A year abroad at the **Uni
 
 <!-- Salesforce / Tableau -->
 <a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=AfORrOPYhJy54KYs04S4oxamgiFLcvUVzU01OwSFER6Js4MIed5g6QOPkZdjT8NN">
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtv&oid=00DF0000000gZsu&lastMod=1617268523000" alt="Salesforce Certified Tableau Data Analyst" width="19%" />
+  <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEbJ&oid=00DF0000000gZsu&lastMod=1746778793000" alt="Salesforce Certified Tableau Data Analyst" width="19%" />
 </a>
 
 <!-- Google Skillshop -->
