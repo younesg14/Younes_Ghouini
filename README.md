@@ -78,7 +78,7 @@ My path has been shaped by international experiences. A year abroad at the **Uni
 
 <!-- Snowflake -->
 <a href="https://achieve.snowflake.com/12b5975a-1088-48b8-adf9-4dc7adaac045">
-  <img src="https://achieve.snowflake.com/12b5975a-1088-48b8-adf9-4dc7adaac045/badge" alt="Snowflake Certification" width="19%" />
+  <img src="https://achieve.snowflake.com/12b5975a-1088-48b8-adf9-4dc7adaac045/badge" width="19%" />
 </a>
 
 <!-- Accredible -->
