@@ -1,1 +1,121 @@
-Hey, I'm Younes! 👋
+<div align="center">
+
+# Hey, I'm Younes 👋
+
+**Data Consultant · Ex-Gaming · Storyteller with Data**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-g-46a74b59/)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/younes.ghouini/vizzes)
+[![The Data School](https://img.shields.io/badge/The_Data_School-Alumni-1a1a2e?style=for-the-badge)](https://www.thedataschool.co.uk/blog/younes-ghouini/)
+[![Blog](https://img.shields.io/badge/Blog-Read_My_Posts-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.thedataschool.co.uk/blog/younes-ghouini/)
+
+</div>
+
+---
+
+### 🧭 About Me
+
+I'm a data consulatant at **The Information Lab**. I build dashboards, data models, and internal tooling that turns messy data into clear, actionable insight.
+
+Before data, I spent **10+ years in the gaming industry** — product management, monetisation, and user experience. I co-launched a mobile gaming studio that reached **millions of users worldwide**, and it was through analysing player behaviour and game performance data that I found my real obsession: **data-driven storytelling**.
+
+My path has been shaped by international experiences. A year abroad at the **University of Wisconsin** 🇺🇸, six months at a startup in **Valencia, Spain** 🇪🇸.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat-square&logo=alteryx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+### 🏅 Certifications & Credentials
+
+<div align="center">
+
+| Badge | Certification |
+|:---:|:---|
+| ![Tableau](https://img.shields.io/badge/Tableau-Desktop_Certified-E97627?style=for-the-badge&logo=tableau&logoColor=white) | Tableau Desktop Specialist |
+| ![Alteryx](https://img.shields.io/badge/Alteryx-Designer_Core-0078C0?style=for-the-badge&logo=alteryx&logoColor=white) | Alteryx Designer Core Certified |
+| ![Data School](https://img.shields.io/badge/The_Data_School-DS52-1a1a2e?style=for-the-badge) | The Data School UK — Cohort 52 |
+
+</div>
+
+---
+
+### 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🌍 UK Street Crimes Dashboard
+Interactive Tableau dashboard powered by an **Alteryx App** — users select a date range, crime category, and area, and the viz updates dynamically. Data sourced from data.police.uk and pushed to Tableau Server.
+
+`Tableau` `Alteryx` `API` `Data Prep`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🚀 NASA Near-Earth Asteroids
+Dashboard tracking asteroids observed over time, pulling data from the **NASA API** via Alteryx. Includes a timeline visualisation and hazard classification.
+
+`Tableau` `Alteryx` `NASA API` `Data Viz`
+
+---
+
+### ✍️ Latest Blog Posts
+
+<!-- Update these with your latest posts -->
+- 🔗 [Dashboard Week: NASA Near-Earth Asteroids](https://www.thedataschool.co.uk/younes-ghouini/dashboard-week-day-5-nasa-3/)
+- 🔗 [Dashboard Week: UK Street Crimes](https://www.thedataschool.co.uk/younes-ghouini/dashboard-week-day-3-76/)
+- 🔗 [ETL vs ELT: The Data Duel](https://www.thedataschool.co.uk/younes-ghouini/untitled-220/)
+- 🔗 [Cleaning Up Your Joins: The USING Clause in SQL](https://www.thedataschool.co.uk/younes-ghouini/untitled-218/)
+- 🔗 [A Date with Dates](https://www.thedataschool.co.uk/younes-ghouini/a-date-with-dates/)
+- 🔗 [Understanding SQL UNION](https://www.thedataschool.co.uk/younes-ghouini/untitled-208/)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
+
+---
+
+### ⚡ A Bit More About Me
+
+- 🥊 Boxing enthusiast
+- 🧩 Puzzle solver and tech tinkerer
+- 🐱 Cat owner
+- 🎮 10+ years in the gaming industry before pivoting to data
+- 🌍 London based
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=58a6ff&style=flat-square&label=Profile+Views)
+
+*"It was through analysing player behaviours and game performance data that I discovered my passion for data-driven storytelling."*
+
+</div>
