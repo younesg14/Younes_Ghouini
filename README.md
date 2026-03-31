@@ -46,38 +46,38 @@ My path has been shaped by international experiences. A year abroad at the **Uni
 
 <!-- Salesforce / Tableau -->
 <a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=AfORrOPYhJy54KYs04S4oxamgiFLcvUVzU01OwSFER6Js4MIed5g6QOPkZdjT8NN">
-  <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEbJ&oid=00DF0000000gZsu&lastMod=1746778793000" alt="Salesforce Certified Tableau Data Analyst" width="19%" />
+  <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEbJ&oid=00DF0000000gZsu&lastMod=1746778793000" alt="Salesforce Certified Tableau Data Analyst" width="15%" />
 </a>
 
 <!-- Credly -->
 <a href="https://www.credly.com/badges/cd53a898-f33b-4a91-bff0-bb35cf286802/public_url">
-  <img src="https://images.credly.com/size/680x680/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png" alt="Alteryx Designer Advanced Certification" width="19%" />
+  <img src="https://images.credly.com/size/680x680/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png" alt="Alteryx Designer Advanced Certification" width="15%" />
 </a>
 
 <a href="https://www.credly.com/badges/17e27492-2732-4887-a895-ab82f95c5bd4/public_url">
-  <img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core Certification" width="5%" />
+  <img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core Certification" width="15%" />
 </a>
 
 <a href="https://www.credly.com/badges/78e3f14b-4afc-4919-838e-d47bade7d96d/public_url">
-  <img src="https://images.credly.com/size/680x680/images/70b7f41e-7711-426d-8e87-e6a7b14d3790/image.png" alt="Machine Learning Fundamentals Micro-Credential" width="19%" />
+  <img src="https://images.credly.com/size/680x680/images/70b7f41e-7711-426d-8e87-e6a7b14d3790/image.png" alt="Machine Learning Fundamentals Micro-Credential" width="15%" />
 </a>
 
 <!-- dbt -->
 <a href="https://credentials.getdbt.com/a9264b2b-82aa-4277-ba42-765735e20d45">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/165511647" alt="dbt fundamentals" width="19%" />
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/165511647" alt="dbt fundamentals" width="15%" />
 </a>
 
 <a href="https://www.credly.com/badges/d9f32122-cda6-4ef9-8c3d-8a483e8dfe07/public_url">
-  <img src="https://images.credly.com/size/680x680/images/c697cca4-0ae9-4821-ac6f-6156a041243f/image.png" alt="Google Data Analytics Professional Certificate" width="19%" />
+  <img src="https://images.credly.com/size/680x680/images/c697cca4-0ae9-4821-ac6f-6156a041243f/image.png" alt="Google Data Analytics Professional Certificate" width="15%" />
 </a>
 
 <a href="https://www.credly.com/badges/dc2cae58-cac3-44be-bfbc-1b1fdf2a4669/public_url">
-  <img src="https://images.credly.com/size/680x680/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Google AI Essentials" width="19%" />
+  <img src="https://images.credly.com/size/680x680/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Google AI Essentials" width="15%" />
 </a>
 
 <!-- Google Skillshop -->
 <a href="https://www.credential.net/429aec4f-c4bf-4673-b7c3-cf835b18fdcd#acc.xIEe9PmC">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136864596" alt="Google Skillshop Certification" width="19%" />
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136864596" alt="Google Skillshop Certification" width="15%" />
 </a>
 
 </div>
