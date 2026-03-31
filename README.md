@@ -42,16 +42,49 @@ My path has been shaped by international experiences. A year abroad at the **Uni
 
 <div align="center">
 
+## 🏅 Certifications & Badges
+
 <!-- Credly -->
-<a href="https://www.credly.com/badges/bb626c8c-628f-4f09-a3f7-fa45d53693da/public_url">
-  <img src="https://images.credly.com/size/680x680/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" alt="Tableau Certified Data Analyst" width="19%" />
+<a href="https://www.credly.com/badges/cd53a898-f33b-4a91-bff0-bb35cf286802/public_url">
+  <img src="https://images.credly.com/size/680x680/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png" alt="Alteryx Designer Advanced Certification" width="19%" />
 </a>
-<a href="https://www.credly.com/badges/3c9d9923-cdc1-4a9d-b072-59b526bfb4c1/public_url">
-  <img src="https://images.credly.com/size/680x680/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png" alt="Alteryx Designer Advanced" width="19%" />
+<a href="https://www.credly.com/badges/17e27492-2732-4887-a895-ab82f95c5bd4/public_url">
+  <img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core Certification" width="19%" />
 </a>
-<a href="https://www.credly.com/badges/4fd0ac7d-66d9-4498-8f2c-0d386717b62c/public_url">
-  <img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core" width="19%" />
+<a href="https://www.credly.com/badges/78e3f14b-4afc-4919-838e-d47bade7d96d/public_url">
+  <img src="https://images.credly.com/size/680x680/images/70b7f41e-7711-426d-8e87-e6a7b14d3790/image.png" alt="Machine Learning Fundamentals Micro-Credential" width="19%" />
 </a>
+<a href="https://www.credly.com/badges/d9f32122-cda6-4ef9-8c3d-8a483e8dfe07/public_url">
+  <img src="https://images.credly.com/size/680x680/images/c697cca4-0ae9-4821-ac6f-6156a041243f/image.png" alt="Google Data Analytics Professional Certificate" width="19%" />
+</a>
+<a href="https://www.credly.com/badges/dc2cae58-cac3-44be-bfbc-1b1fdf2a4669/public_url">
+  <img src="https://images.credly.com/size/680x680/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Google AI Essentials" width="19%" />
+</a>
+
+<!-- Salesforce / Tableau -->
+<a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=AfORrOPYhJy54KYs04S4oxamgiFLcvUVzU01OwSFER6Js4MIed5g6QOPkZdjT8NN">
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtv&oid=00DF0000000gZsu&lastMod=1617268523000" alt="Salesforce Certified Tableau Data Analyst" width="19%" />
+</a>
+
+<!-- Google Skillshop -->
+<a href="https://skillshop.credential.net/cf10c18d-e038-4424-95f4-45f595cef009">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/cf10c18d-e038-4424-95f4-45f595cef009" alt="Google Skillshop Certification" width="19%" />
+</a>
+
+<!-- dbt -->
+<a href="https://credentials.getdbt.com/a9264b2b-82aa-4277-ba42-765735e20d45">
+  <img src="https://credentials.getdbt.com/a9264b2b-82aa-4277-ba42-765735e20d45/badge" alt="dbt Analytics Engineering Certification" width="19%" />
+</a>
+
+<!-- Snowflake -->
+<a href="https://achieve.snowflake.com/12b5975a-1088-48b8-adf9-4dc7adaac045">
+  <img src="https://achieve.snowflake.com/12b5975a-1088-48b8-adf9-4dc7adaac045/badge" alt="Snowflake Certification" width="19%" />
+</a>
+
+<!-- Accredible -->
+<a href="https://api.accredible.com/v1/frontend/credential_embed_image/164515147">
+  <img src="https://api.accredible.com/v1/frontend/credential_embed_image/164515147" alt="Accredible Credential" width="19%" />
+</a>>
 
 
 </div>
