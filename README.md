@@ -73,7 +73,7 @@ My path has been shaped by international experiences. A year abroad at the **Uni
 
 <!-- dbt -->
 <a href="https://credentials.getdbt.com/a9264b2b-82aa-4277-ba42-765735e20d45">
-  <img src="https://credentials.getdbt.com/a9264b2b-82aa-4277-ba42-765735e20d45/badge)"" width="19%" />
+  <img src="https://credentials.getdbt.com/a9264b2b-82aa-4277-ba42-765735e20d45/badge")"" width="19%" />
 </a>
 
 <!-- Snowflake -->
