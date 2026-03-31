@@ -55,7 +55,7 @@ My path has been shaped by international experiences. A year abroad at the **Uni
 </a>
 
 <a href="https://www.credly.com/badges/17e27492-2732-4887-a895-ab82f95c5bd4/public_url">
-  <img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core Certification" width="19%" />
+  <img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core Certification" width="5%" />
 </a>
 
 <a href="https://www.credly.com/badges/78e3f14b-4afc-4919-838e-d47bade7d96d/public_url">
