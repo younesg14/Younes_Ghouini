@@ -67,8 +67,8 @@ My path has been shaped by international experiences. A year abroad at the **Uni
 </a>
 
 <!-- Google Skillshop -->
-<a href="https://skillshop.credential.net/cf10c18d-e038-4424-95f4-45f595cef009">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/cf10c18d-e038-4424-95f4-45f595cef009" alt="Google Skillshop Certification" width="19%" />
+<a href="https://www.credential.net/429aec4f-c4bf-4673-b7c3-cf835b18fdcd#acc.xIEe9PmC">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136864596" alt="Google Skillshop Certification" width="19%" />
 </a>
 
 <!-- dbt -->
