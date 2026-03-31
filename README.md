@@ -34,22 +34,60 @@ My path has been shaped by international experiences. A year abroad at the **Uni
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </div>
 
 ---
 
-### 🏅 Certifications & Credentials
+## 🏅 Certifications & Badges
 
 <div align="center">
 
-| Badge | Certification |
-|:---:|:---|
-| ![Tableau](https://img.shields.io/badge/Tableau-Desktop_Certified-E97627?style=for-the-badge&logo=tableau&logoColor=white) | Tableau Desktop Specialist |
-| ![Alteryx](https://img.shields.io/badge/Alteryx-Designer_Core-0078C0?style=for-the-badge&logo=alteryx&logoColor=white) | Alteryx Designer Core Certified |
-| ![Data School](https://img.shields.io/badge/The_Data_School-DS52-1a1a2e?style=for-the-badge) | The Data School UK — Cohort 52 |
+<!-- Alteryx Designer Core -->
+<a href="https://www.credly.com/badges/17e27492-2732-4887-a895-ab82f95c5bd4/public_url">
+  <img src="https://images.credly.com/size/150x150/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="120" alt="Alteryx Designer Core Certification"/>
+</a>&nbsp;&nbsp;
+<!-- Alteryx Designer Advanced -->
+<a href="https://www.credly.com/badges/cd53a898-f33b-4a91-bff0-bb35cf286802/public_url">
+  <img src="https://images.credly.com/size/150x150/images/dcd8095e-4111-4b2b-b20d-e290266a2ea5/Certification_Designer_Advanced.png" width="120" alt="Alteryx Designer Advanced Certification"/>
+</a>&nbsp;&nbsp;
+<!-- Machine Learning Fundamentals Micro-Credential -->
+<a href="https://www.credly.com/badges/78e3f14b-4afc-4919-838e-d47bade7d96d/public_url">
+  <img src="https://images.credly.com/size/150x150/images/093b3c9a-0e63-4829-a20e-e10a38974be1/Micro-Credential_ML_Fundamentals.png" width="120" alt="Machine Learning Fundamentals Micro-Credential"/>
+</a>&nbsp;&nbsp;
+<!-- Google Data Analytics Professional Certificate -->
+<a href="https://www.credly.com/badges/d9f32122-cda6-4ef9-8c3d-8a483e8dfe07/public_url">
+  <img src="https://images.credly.com/size/150x150/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="120" alt="Google Data Analytics Professional Certificate"/>
+</a>&nbsp;&nbsp;
+<!-- Google AI Essentials -->
+<a href="https://www.credly.com/badges/dc2cae58-cac3-44be-bfbc-1b1fdf2a4669/public_url">
+  <img src="https://images.credly.com/size/150x150/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="120" alt="Google AI Essentials"/>
+</a>
+
+<br/><br/>
+
+<!-- Salesforce Certified Tableau Data Analyst -->
+<a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=AfORrOPYhJy54KYs04S4oxamgiFLcvUVzU01OwSFER6Js4MIed5g6QOPkZdjT8NN">
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtv&oid=00DF0000000gZsu&lastMod=1617268523000" width="120" alt="Salesforce Certified Tableau Data Analyst"/>
+</a>&nbsp;&nbsp;
+<!-- Google Analytics (Skillshop) -->
+<a href="https://skillshop.credential.net/cf10c18d-e038-4424-95f4-45f595cef009">
+  <img src="https://img.shields.io/badge/Google_Analytics-Certified-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" height="40" alt="Google Analytics Certification"/>
+</a>&nbsp;&nbsp;
+<!-- dbt Analytics Engineering -->
+<a href="https://credentials.getdbt.com/a9264b2b-82aa-4277-ba42-765735e20d45">
+  <img src="https://img.shields.io/badge/dbt-Analytics_Engineering-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="40" alt="dbt Analytics Engineering Certification"/>
+</a>&nbsp;&nbsp;
+<!-- Snowflake -->
+<a href="https://achieve.snowflake.com/12b5975a-1088-48b8-adf9-4dc7adaac045">
+  <img src="https://img.shields.io/badge/Snowflake-Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="40" alt="Snowflake Certification"/>
+</a>&nbsp;&nbsp;
+<!-- Accredible Credential -->
+<a href="https://api.accredible.com/v1/frontend/credential_embed_image/164515147">
+  <img src="https://api.accredible.com/v1/frontend/credential_embed_image/164515147" width="120" alt="Accredible Credential"/>
+</a>
+
+</div>
 
 </div>
 
